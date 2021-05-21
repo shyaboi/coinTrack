@@ -1,0 +1,18 @@
+.shad {
+    box-shadow: -7px 2px 13px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -7px 2px 13px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -7px 2px 13px 0px rgba(0,0,0,0.75);
+}
+.rndShad{
+    box-shadow: -7px 2px 13px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -7px 2px 13px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -7px 2px 13px 0px rgba(0,0,0,0.75);
+    border-radius: 100%;
+}
+
+.col{
+font-size: larger;
+}
+.cen {
+    text-align: center;
+  }
